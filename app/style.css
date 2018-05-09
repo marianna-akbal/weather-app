@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+
+
+body{
+  background-color: Gainsboro;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+
+.map{
+max-width: 100%;
+height: 800px;
+}
+
+#zachodniopomorskie:hover{
+  fill: Gainsboro;
+}
+
+#swietokrzyskie:hover{
+  fill: Gainsboro;
+}
+
+#slaskie:hover{
+  fill: Gainsboro;
+}
+
+#mazowieckie:hover{
+  fill: Gainsboro;
+}
+
+#warminskie:hover{
+  fill: Gainsboro;
+}
+
+#pomorskie:hover{
+  fill: Gainsboro;
+}
+
+#Podlaskie:hover{
+  fill: Gainsboro;
+}
+
+#Podkarpackie:hover{
+  fill: Gainsboro;
+}
+
+#opolskie:hover{
+  fill: Gainsboro;
+}
+
+#lubuskie:hover{
+  fill: Gainsboro;
+}
+
+#lubelskie:hover{
+  fill: Gainsboro;
+}
+
+#dolnyslask:hover{
+  fill: Gainsboro;
+}
+
+#lodzkie:hover{
+  fill: Gainsboro;
+}
+
+#malopolskie:hover{
+  fill: Gainsboro;
+}
+
+#kujawsko:hover{
+  fill: Gainsboro;
+}
+
+#warszawa:hover{
+  fill: HotPink;
+}
+
+#radom:hover{
+  fill: HotPink;
+}
+
+#bialystok:hover{
+  fill: HotPink;
+}
+
+#suwalki:hover{
+  fill: HotPink;
+}
+
+#olsztyn:hover{
+  fill: HotPink;
+}
+
+#sopot:hover{
+  fill: HotPink;
+}
+
+#gdansk:hover{
+  fill: HotPink;
+}
+
+#gdynia:hover{
+  fill: HotPink;
+}
+
+#koszalin:hover{
+  fill: HotPink;
+}
+
+#szczecin:hover{
+  fill: HotPink;
+}
+
+#zgora:hover{
+  fill: HotPink;
+}
+
+#wroclaw:hover{
+  fill: HotPink;
+}
+
+#opole:hover{
+  fill: HotPink;
+}
+
+#katowice:hover{
+  fill: HotPink;
+}
+
+#krakow:hover{
+  fill: HotPink;
+}
+
+#rzeszow:hover{
+  fill: HotPink;
+}
+
+#przemysl:hover{
+  fill: HotPink;
+}
+
+#lublin:hover{
+  fill: HotPink;
+}
+
+#kielce:hover{
+  fill: HotPink;
+}
+
+#lodz:hover{
+  fill: HotPink;
+}
+
+#torun:hover{
+  fill: HotPink;
+}
