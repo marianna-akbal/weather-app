@@ -88,7 +88,7 @@ malopolskie.addEventListener("click", function(e) {
 });
 
 function getWeather(city, x, y) {
-  let url = `http://api.openweathermap.org/data/2.5/weather?q=${city},pl&units=metric&appid=6be7ad8b086865d0af3e64edee68f7be`;
+  let url = `https://api.openweathermap.org/data/2.5/weather?q=${city},pl&units=metric&appid=6be7ad8b086865d0af3e64edee68f7be`;
 
   //https://stackoverflow.com/questions/12460378/how-to-get-json-from-url-in-javascript
   fetch(url)
